@@ -7,3 +7,5 @@
     * `build .`
     * `./merchant-service`
 3. kindly check `ApiDoc` for api requst and response
+4. run below command to perform unit test
+    * `go test server/*`
